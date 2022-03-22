@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+* My name is Bill Nguyen
+* I'm Studying IT in UNCW https://uncw.edu/
+* My Linkdin Profile https://www.linkedin.com/in/billtnguyen/
+
 <!--
 **billtnguyen/billtnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
